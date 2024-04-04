@@ -72,8 +72,9 @@ else:
 
 # Output : 
 
-![Uploading Screenshot 2024-04-04 164538.png…]()
-![Uploading Screenshot 2024-04-04 164454.png…]()
+![Screenshot 2024-04-04 164538](https://github.com/hindhujanaki/Poisson_distribution/assets/148514666/add0b44d-bfc8-4c95-91d3-b6b808b54055)
+![Screenshot 2024-04-04 164454](https://github.com/hindhujanaki/Poisson_distribution/assets/148514666/31acfeda-9c9c-4f22-9947-818910836136)
+
 
 # Results
 
