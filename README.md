@@ -72,8 +72,7 @@ else:
 
 # Output : 
 
-![Screenshot 2024-04-04 164538](https://github.com/hindhujanaki/Poisson_distribution/assets/148514666/add0b44d-bfc8-4c95-91d3-b6b808b54055)
-![Screenshot 2024-04-04 164454](https://github.com/hindhujanaki/Poisson_distribution/assets/148514666/31acfeda-9c9c-4f22-9947-818910836136)
+![image](https://github.com/hindhujanaki/Poisson_distribution/assets/148514666/78e5395c-0f8d-415b-9045-8edc7ce76145)
 
 
 # Results
